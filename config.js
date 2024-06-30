@@ -52,7 +52,7 @@ module.exports = {
 
     ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE),
 
-    BOT_NAME: process.env.BOT_NAME || 'ʜᴇʀᴍɪᴛ',
+    BOT_NAME: process.env.BOT_NAME || 'Xᴏᴜʟ Mᴅ',
 
     AUTOMUTE_MSG: process.env.AUTOMUTE_MSG || '_Group automuted!_\n_(Change this by setting var AUTOMUTE_MSG)_',
 
@@ -60,11 +60,49 @@ module.exports = {
 
     ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
 
-    BOT_INFO: process.env.BOT_INFO || 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/6oRG106.jpeg',
+    BOT_INFO: process.env.BOT_INFO || 'Xᴏᴜʟ Mᴅ;Xᴏᴜʟ Sᴇʀ;919633605648;https://i.imgur.com/CoAcgTb.jpeg',
 
-    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/fj2WE83.jpeg' : process.env.AUDIO_DATA,
+    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕;🍃ഇ͎ꫧ᪳͢გവ᪳გ͎◕ കട᪳൬͎გ ලപꪆവ᪳გ◕🕊️;https://i.imgur.com/CoAcgTb.jpeg' : process.env.AUDIO_DATA,
 
-    STICKER_DATA: process.env.STICKER_DATA === undefined ? 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ' : process.env.STICKER_DATA,
+    STICKER_DATA: process.env.STICKER_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕
+
+
+🍭㆒⾛⾜⾖㆒🦊
+
+
+🌷㆒⾛⾜⾖㆒🌈
+
+
+🌩️㆒⾛⾜⾖㆒🐨
+
+
+🪁㆒⾛⾜⾖㆒🌗
+
+
+🍉㆒⾛⾜⾖㆒🍓
+
+
+🍒㆒⾛⾜⾖㆒🍿;
+
+ㅤㅤㅤ⁹
+
+ㅤㅤㅤ⁶
+
+ㅤㅤㅤ³
+
+ㅤㅤㅤ³
+
+ㅤㅤㅤ⁶
+
+ㅤㅤㅤ⁰
+
+ㅤㅤㅤ⁵
+
+ㅤㅤㅤ⁶
+
+ㅤㅤㅤ⁴
+
+ㅤㅤㅤ⁸' : process.env.STICKER_DATA,
 
     ERROR_MESSAGE: process.env.ERROR_MESSAGE === undefined ? true : toBool(process.env.ERROR_MESSAGE), 
 
@@ -108,7 +146,7 @@ module.exports = {
 
        BRAIN_ID: process.env.BRAIN_ID || 'bid=168613&key=EfbnX54Iy9PFIFp3',
 
-       SUDO: process.env.SUDO || '972528277700,0',
+       SUDO: process.env.SUDO || '919633605648',
 
        DEBUG: DEBUG
 
