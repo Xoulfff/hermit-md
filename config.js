@@ -64,45 +64,7 @@ module.exports = {
 
     AUDIO_DATA: process.env.AUDIO_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕;🍃ഇ͎ꫧ᪳͢გവ᪳გ͎◕ കട᪳൬͎გ ලപꪆവ᪳გ◕🕊️;https://i.imgur.com/CoAcgTb.jpeg' : process.env.AUDIO_DATA,
 
-    STICKER_DATA: process.env.STICKER_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕
-
-
-🍭㆒⾛⾜⾖㆒🦊
-
-
-🌷㆒⾛⾜⾖㆒🌈
-
-
-🌩️㆒⾛⾜⾖㆒🐨
-
-
-🪁㆒⾛⾜⾖㆒🌗
-
-
-🍉㆒⾛⾜⾖㆒🍓
-
-
-🍒㆒⾛⾜⾖㆒🍿;
-
-ㅤㅤㅤ⁹
-
-ㅤㅤㅤ⁶
-
-ㅤㅤㅤ³
-
-ㅤㅤㅤ³
-
-ㅤㅤㅤ⁶
-
-ㅤㅤㅤ⁰
-
-ㅤㅤㅤ⁵
-
-ㅤㅤㅤ⁶
-
-ㅤㅤㅤ⁴
-
-ㅤㅤㅤ⁸' : process.env.STICKER_DATA,
+    STICKER_DATA: process.env.STICKER_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕' : process.env.STICKER_DATA,
 
     ERROR_MESSAGE: process.env.ERROR_MESSAGE === undefined ? true : toBool(process.env.ERROR_MESSAGE), 
 
