@@ -62,7 +62,7 @@ module.exports = {
 
     BOT_INFO: process.env.BOT_INFO || 'Xᴏᴜʟ Mᴅ;Xᴏᴜʟ Sᴇʀ;919633605648;https://i.imgur.com/CoAcgTb.jpeg',
 
-    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕;🍃ഇ͎ꫧ᪳͢გവ᪳გ͎◕ കട᪳൬͎გ ලപꪆവ᪳გ◕🕊️;https://i.imgur.com/CoAcgTb.jpeg' : process.env.AUDIO_DATA,
+    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? '𝐗ᴏᴜʟ 𝐒ᴇʀ;𝐈ɴsᴛᴀ 𝐗ᴏᴜʟxʏ;https://i.imgur.com/CoAcgTb.jpeg' : process.env.AUDIO_DATA,
 
     STICKER_DATA: process.env.STICKER_DATA === undefined ? '⺀𑁍 𝚾͢ᴏ᪳ᴜ᪳ʟ᷏᪳ 𝐒͢ᴇ᪳ʀ᷏᪳ ▸ᝃ〔🍉🐼〕' : process.env.STICKER_DATA,
 
